@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Cathioneli
+👩🏻‍💻 Cathioneli
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=510&lines=Business+Intelligence+%7C+Business+Analytics)](https://git.io/typing-svg)
 
@@ -27,11 +27,20 @@ sempre alinhado com os objetivos e regras de negócio de cada área.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="20" 
+    style="padding-right: 10px;" 
+    src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" 
+/>
+
 <br/>
 <br/>
 
 ### 📊 Estatísticas
-
+<!-- https://github.com/anuraghazra/github-readme-stats-->
 <p>
   <img 
     align="left" 
@@ -45,7 +54,8 @@ sempre alinhado com os objetivos e regras de negócio de cada área.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathioneli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=cathioneli&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"   
   />
+
 
 </p>
