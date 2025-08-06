@@ -1,7 +1,5 @@
 👩🏻‍💻 Cathioneli
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=510&lines=Business+Intelligence+%7C+Business+Analytics)](https://git.io/typing-svg)
-
 Proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, 
 sempre alinhado com os objetivos e regras de negócio de cada área.
  
