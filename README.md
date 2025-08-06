@@ -2,7 +2,8 @@
 
 **`Business Intelligence | Business Analytics`**
 
-Profissional proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, sempre alinhado com os objetivos da empresa e as regras de negócio de cada área. Demonstro resiliência e equilíbrio emocional para lidar com situações adversas, garantindo a entrega e soluções eficientes..
+Profissional proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, 
+sempre alinhado com os objetivos e regras de negócio de cada área.
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
