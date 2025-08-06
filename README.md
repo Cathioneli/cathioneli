@@ -5,7 +5,6 @@
 
 ### 🤖 Linguagens e Tecnologias
 
-
 <img 
     align="left" 
     alt="Git" 
