@@ -5,25 +5,6 @@
 Proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, 
 sempre alinhado com os objetivos e regras de negócio de cada área.
  
-
-<p align="left">
-    </a> 
-    <a href="https://github.com/cathioneli?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/cathioneli?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cathioneli?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
