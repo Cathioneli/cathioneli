@@ -7,6 +7,21 @@
 
 <img 
     align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/128/919/919836.png" 
+/>
+<img 
+    align="left" 
+    alt="Sql" 
+    title="Sql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn-icons-png.flaticon.com/128/16781/16781152.png" 
+/><img 
+    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
