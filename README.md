@@ -2,7 +2,7 @@
 
 **`Business Intelligence | Business Analytics`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Profissional proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, sempre alinhado com os objetivos da empresa e as regras de negócio de cada área. Demonstro resiliência e equilíbrio emocional para lidar com situações adversas, garantindo a entrega e soluções eficientes..
 
 <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
