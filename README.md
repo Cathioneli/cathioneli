@@ -1,11 +1,9 @@
-                                                                                                              # 👩🏻‍💻 Cathioneli
+# 👩🏻‍💻 Cathioneli
 
-**`Business Intelligence | Business Analytics`**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=510&lines=Business+Intelligence+%7C+Business+Analytics)](https://git.io/typing-svg)
 
-Profissional proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, 
+Proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, 
 sempre alinhado com os objetivos e regras de negócio de cada área.
-
 <p align="left">
     </a> 
     <a href="https://github.com/cathioneli?tab=repositories&sort=stargazers">
