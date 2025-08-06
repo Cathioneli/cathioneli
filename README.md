@@ -29,8 +29,8 @@ sempre alinhado com os objetivos e regras de negócio de cada área.
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="PowerBI" 
+    title="PowerBI"
     width="20" 
     style="padding-right: 10px;" 
     src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" 
