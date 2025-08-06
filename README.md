@@ -4,6 +4,8 @@
 
 Proativo e adaptável, com foco em resultados e aprendizado contínuo. Dedicado a aplicar e aprimorar habilidades em projetos desafiadores, 
 sempre alinhado com os objetivos e regras de negócio de cada área.
+ 
+
 <p align="left">
     </a> 
     <a href="https://github.com/cathioneli?tab=repositories&sort=stargazers">
